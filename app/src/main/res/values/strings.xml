@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidWearNotificationExamples</string>
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>Of course</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
+</resources>
